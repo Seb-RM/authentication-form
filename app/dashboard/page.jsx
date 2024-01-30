@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const DashBoardPage = () => {
     return (
         <>
             <h1 className='text-2xl font-bold mb-5'>DashBoard</h1>
@@ -9,4 +9,4 @@ const page = () => {
     )
 }
 
-export default page
+export default DashBoardPage;
